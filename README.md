@@ -1,3 +1,3 @@
 
 # pull request link
-[PR](https://github.com/AbrarAlzubaidi/madlib-cli/pull/1)
+[PR](https://github.com/AbrarAlzubaidi/madlib-cli/pull/2)
